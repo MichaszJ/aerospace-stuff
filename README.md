@@ -6,6 +6,7 @@ Personal repository that stores various projects and scripts related to aerospac
 Numerical simulation and approximation techniques
 
 - [x] Newton's method
+  - [ ] Improve accuracy
 - [ ] Regula-Falsi method
 - [ ] Runge-Kutta method
 
