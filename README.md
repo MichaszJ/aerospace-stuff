@@ -1,5 +1,5 @@
 # Michal's Aerospace Stuff
-Personal epository that stores various projects and scripts related to aerospace engineering
+Personal repository that stores various projects and scripts related to aerospace engineering
 
 ## To-do
 
